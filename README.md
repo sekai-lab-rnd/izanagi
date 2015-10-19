@@ -1,7 +1,6 @@
 # Izanagi
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
 
 ## Prerequisites
 
@@ -41,7 +40,13 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+***TODO:*** *Specify what it takes to deploy the app.*
+
+### Documentation
+
+This project is making use of [YUIDoc](http://yui.github.io/yuidoc/syntax/)
+* Generate the documentation by running `ember ember-cli-yuidoc`
+* You can now access the documentation from the folder `/docs` and then open the `index.html` file in a browser.
 
 ## Further Reading / Useful Links
 
